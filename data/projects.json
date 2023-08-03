@@ -1,0 +1,65 @@
+[
+  {
+    "id": 150,
+    "name": "Ashby I and 2 Solar",
+    "capacity_kw": 1848.0,
+    "address": "1180 Ashby State Road",
+    "city": "Fitchburg",
+    "state": "MA",
+    "zip": "02132"
+  },
+  {
+    "id": 56,
+    "name": "Avon Solar",
+    "capacity_kw": 990.0,
+    "address": "55 Murphy Drive",
+    "city": "Avon",
+    "state": "MA",
+    "zip": "02322"
+  },
+  {
+    "id": 176,
+    "name": "Coventry Solar",
+    "capacity_kw": 750.0,
+    "address": "0 Lewis Farm Road",
+    "city": "Coventry",
+    "state": "RI",
+    "zip": "02827"
+  },
+  {
+    "id": 31,
+    "name": "Factory Street Solar",
+    "capacity_kw": 300.0,
+    "address": "100 Factory Street",
+    "city": "West Warwick",
+    "state": "RI",
+    "zip": "02893"
+  },
+  {
+    "id": 33,
+    "name": "Harrison Solar",
+    "capacity_kw": 500.0,
+    "address": "1 Westchester Park Drive",
+    "city": "Harrison",
+    "state": "NY",
+    "zip": "10604"
+  },
+  {
+    "id": 51,
+    "name": "Nexamp Peak",
+    "capacity_kw": 1750.0,
+    "address": "271 Brodie Mountain Road",
+    "city": "Hancock",
+    "state": "MA",
+    "zip": "01237"
+  },
+  {
+    "id": 52,
+    "name": "Richmond Solar",
+    "capacity_kw": 499.0,
+    "address": "Lot 44-1 Stilson Road",
+    "city": "Richmond",
+    "state": "RI",
+    "zip": "02898"
+  }
+]
